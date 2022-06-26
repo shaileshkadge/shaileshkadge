@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaileshkadge
-- 👀 I’m interested in Web and Mobile app Development
+- 👀 I’m interested inDevelopment oriented projects.
 - 🌱 I’m currently learning Javascript, Java
 - 💞️ I’m looking to collaborate on projects related to web and mobile
 - 📫 Feel free to contact me on kadgeshailesh@gmail.com
